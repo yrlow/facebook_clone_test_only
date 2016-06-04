@@ -1,0 +1,4 @@
+to set up rails rspec:
+https://github.com/hollowaykeanho/learning/tree/master/rails/gems/rspec-rails
+
+
