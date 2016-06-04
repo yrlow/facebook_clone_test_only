@@ -18,7 +18,7 @@ This is a mock exercise for rails assessment.
 ## Guard
 This project uses `guard` and `guard-rspec`. In your terminal, run:
 
-    $ guard
+    $ bundle exec guard
 
 and it will show something like the following:
 
