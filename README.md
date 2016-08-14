@@ -7,10 +7,10 @@ This is a mock exercise for rails assessment.
 
 ## To Start
 1. Fork the repo.
-2a. Clone the repo down to your local machine
-2b. Add ruby version on gemfile.
-3. Work on your solution.
-4. Push and commit as frequent as possible (at least every 2 hours).
+2. Clone the repo down to your local machine
+3. Add ruby version on gemfile.
+4. Work on your solution.
+5. Push and commit as frequent as possible (at least every 2 hours).
 
 
 
@@ -18,7 +18,7 @@ This is a mock exercise for rails assessment.
 ## Guard
 This project uses `guard` and `guard-rspec`. In your terminal, run:
 
-    $ guard
+    $ bundle exec guard
 
 and it will show something like the following:
 
