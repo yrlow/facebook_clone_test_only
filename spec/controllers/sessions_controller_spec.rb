@@ -76,7 +76,7 @@ RSpec.describe SessionsController, type: :controller do
     end
 
     it "deletes the cookie" do
-      expect(cookies[:user_id]).to eq nil
+      expect(session[:user_id]).to eq nil
     end
 
     it "redirects back to the root path" do
